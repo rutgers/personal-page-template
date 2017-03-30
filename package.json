@@ -1,0 +1,17 @@
+{
+  "name": "personal-page-template",
+  "version": "1.0.0",
+  "description": "A simple Bootstrap 4 template for making a personal homepage or portfolio.",
+  "main": "index.js",
+  "repository": "https://github.com/rutgers/personal-page-template.git",
+  "author": "<jeremy.savarin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "devDependencies": {
+    "html-loader": "^0.4.5",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
